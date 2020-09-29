@@ -5,4 +5,4 @@ Aulas:
 * NLTK
 * Módulo de NLP do Pycaret
 * Bag of Words e TF-IDF
-* SpaCy
+* SpaCy 
