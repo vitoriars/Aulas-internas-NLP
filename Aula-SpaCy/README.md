@@ -1,2 +1,2 @@
-# Aula módulo de NLP Pycaret
-Código da aula interna do módulo de NLP do Pycaret, ministrada para os membros da área de NLP do Grupo Turing.
+# Aula módulo de SpaCy
+Código da aula interna de SpaCy, ministrada para os membros da área de NLP do Grupo Turing.
